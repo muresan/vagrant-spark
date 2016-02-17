@@ -8,13 +8,11 @@ Vagrant.configure(2) do |config|
   config.ssh.pty = true
 
   hosts = {
-    'sparkm' => { 'ip' => '192.168.124.101', 'cpus' => 1, 'memory' => 1024, 'autostart' => false },
+    'sparkm' => { 'ip' => '192.168.124.101', 'cpus' => 1, 'memory' => 1024, 'autostart' => true },
     'spark1' => { 'ip' => '192.168.124.201', 'cpus' => 1, 'memory' => 1024, 'autostart' => true },
-    'spark2' => { 'ip' => '192.168.124.202', 'cpus' => 1, 'memory' => 1024, 'autostart' => false },
-    'spark3' => { 'ip' => '192.168.124.203', 'cpus' => 1, 'memory' => 1024, 'autostart' => false },
-
+    'spark2' => { 'ip' => '192.168.124.202', 'cpus' => 1, 'memory' => 1024, 'autostart' => true },
+    'spark3' => { 'ip' => '192.168.124.203', 'cpus' => 1, 'memory' => 1024, 'autostart' => true },
     'jenkins' => { 'ip' => '192.168.124.150', 'cpus' => 1, 'memory' => 1024, 'autostart' => true },
-
   }
 
   hosts.each do |host, params|
