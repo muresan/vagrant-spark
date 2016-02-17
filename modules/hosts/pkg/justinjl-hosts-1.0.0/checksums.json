@@ -1,0 +1,16 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "README.md": "b015e106be32e45b886a60d72180caa3",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/add.pp": "f0960bdeb173b6495987245a39934d6c",
+  "manifests/file.pp": "0f67a0434671cf70ea37c1f15e941ad0",
+  "manifests/header.pp": "7519ae9c2c11a81f6f66a993a37472e0",
+  "manifests/init.pp": "be877d2693392d821dbf3ef8fd8c049b",
+  "manifests/localhost.pp": "19c2d75464da5411024734b8f42318cf",
+  "manifests/params.pp": "1ea98769a973bbb1cdbaf446493872e3",
+  "manifests/primary.pp": "4d96b4f1524da0ae5c3f5a70a65db06f",
+  "metadata.json": "c4b8073eadc00429baf89b5970fd29dc",
+  "spec/classes/init_spec.rb": "28d9117f51591f4f5c0bcb5823ccbf1b",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/justinjl-hosts.pp": "468df3c5974a3184a7ac450e3ce6a780"
+}

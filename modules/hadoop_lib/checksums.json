@@ -1,0 +1,22 @@
+{
+  "CHANGELOG": "df56e5727550fea7ccf8dc1528968ef9",
+  "CONTRIBUTING.md": "8b4f5378db8a5e6f6121196f6abef9ac",
+  "Gemfile": "a934930378b7ae2ff44114a971672bbd",
+  "Guardfile": "3ae8d9a61b870350cc1c8e0d6a9a36e7",
+  "LICENSE": "b40bca51febb21d8064724be33e8d813",
+  "Modulefile": "858a9806b272e617a6681e140bb7010d",
+  "README.markdown": "73f2b69acc3d0a63908949aa560ef3e5",
+  "Rakefile": "97fe884b0850828394982bcf5939a329",
+  "manifests/env.pp": "aa7375ba7ebfadd306e46ae8580b4c8d",
+  "manifests/jdbc.pp": "47bee4f15d1d9906ad37100a0b1713b2",
+  "manifests/params.pp": "e0e29d64bac795d997a7d0e5e878a680",
+  "manifests/postinstall.pp": "0502b740c512463f00b169a3f8559b94",
+  "metadata.json": "c146b30865f4cb17bf54e9e1eb08dbe4",
+  "spec/classes/coverage_spec.rb": "5b6dfa0dd426aca0ccfae23c0a629f0b",
+  "spec/classes/env_spec.rb": "6cabfc8a4fd5342b2279c92cefa581a2",
+  "spec/defines/jdbc_spec.rb": "ea65e2be475e5721fa918b915437f8b0",
+  "spec/defines/postinstall_spec.rb": "038991883cccdc845ae72d3f12ebcd94",
+  "spec/spec_helper.rb": "92e53f882ab922fb8b5a51fe89c4977f",
+  "templates/hadoop.csh.erb": "4a4a5f6f853c14a5ee1384e76466a341",
+  "templates/hadoop.sh.erb": "b25c01570faa66421e2b525fe5a0f106"
+}

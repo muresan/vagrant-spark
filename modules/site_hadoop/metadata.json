@@ -1,0 +1,58 @@
+{
+  "name": "cesnet-site_hadoop",
+  "version": "1.1.1",
+  "author": "Frantisek Dvorak <valtri@civ.zcu.cz>",
+  "summary": "Hadoop Site-Specific Module",
+  "license": "MIT",
+  "source": "https://github.com/MetaCenterCloudPuppet/cesnet-site_hadoop",
+  "project_page": "https://github.com/MetaCenterCloudPuppet/cesnet-site_hadoop",
+  "issues_url": "https://github.com/MetaCenterCloudPuppet/cesnet-site_hadoop/issues",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "Fedora"
+    },
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "tags": [
+    "hadoop",
+    "accounting",
+    "java"
+  ],
+  "description": "Hadoop Site-Specific Module",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 <5.0.0"}
+  ]
+}
